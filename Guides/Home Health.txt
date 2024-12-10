@@ -1,0 +1,48 @@
+
+California Medical Treatment Utilization Schedule (MTUS)/ACOEM Practice Guideline
+Initial Approaches to Treatment (MTUS Effective Date March 14, 2022)
+Treatment Recommendations
+Home Health Care Services
+Recommended
+Home healthcare is selectively recommended on a short-term basis following hospitalization and major surgical procedures. It is also selectively recommended to prevent (re)hospitalization, to overcome deficits in activities of daily living (ADLs), and/or to provide nursing, therapy and/or supportive care services for those who would otherwise require inpatient care.
+Strength of Evidence – Recommended, Insufficient Evidence (I)
+Level of Confidence – Moderate
+Indications: Due to the occupational injury or illness:
+•	the patient is unable to leave the home without major assistance (e.g., requiring wheelchair, walker, 3rd party transportation); or
+•	leaving home is not medically advised because of the occupational illness or injury; and
+•	the patient is normally unable to leave home and leaving home is a major effort.
+Benefits: Earlier recovery among those who are home bound, earlier attainment of functional goals. Prevention of (re)hospitalization.
+Harms: Negligible
+Frequency/Dose/Duration: Frequency is individualized by the provider’s assessment and evaluation of the patient’s healthcare needs and is detailed in a treatment plan. The authorization should include estimated services, hours, and duration of services on a daily / weekly basis. Reassessment of the medical necessity of the home health care services should be performed at regular intervals.
+Indications for Discontinuation: Sufficient recovery to no longer be home bound. Resolution of the injury or disease; lack of efficacy.
+Rationale: There is no quality evidence of efficacy of home healthcare in workers’ compensation patients. However, there is experience with efficacy of home healthcare in general, and there is a lack of plausible alternatives in some circumstances. Home healthcare is not invasive, has negligible adverse effects, is high cost, but in the absence of plausible alternatives, is selectively recommended.
+Evidence: Comprehensive literature searches have been conducted using PubMed, Scopus, CINAHL, Cochrane Library, and Google Scholar without date limits following a standardized methodology. Searches were conducted for various evidence-based practice guidelines and medications (e.g., acetaminophen, selective serotonin reuptake inhibitors, NSAIDs). Detailed search term write-ups are included in the respective evidence-based practice guidelines.
+
+California Medical Treatment Utilization Schedule (MTUS)/ACOEM Practice Guideline
+Initial Approaches to Treatment (MTUS Effective Date March 14, 2022)
+General Principles of Treatment
+Home Health Care Services
+Home health care is a strategy used to address select patient problems on a short-term basis. This care is functionally based, cost effective in select circumstances involving home-bound patients, and reduces the risk of (re)hospitalization [35-37]. Home health care services are usually segregated into skilled and unskilled services.
+Skilled services are provided by a licensed medical professional and may include nursing care, physical therapy, occupational therapy, speech therapy, nutritional support, and other related health care services provided to a home bound patient in his/her residence.
+Unskilled services include personal care and domestic care. These services commonly include activities of daily living (personal care) and thus do not require a medical professional’s skills. Examples of personal care tasks include feeding, bathing, and toileting.
+Domestic care may be deemed medically necessary if the patient is receiving skilled care and / or personal care and his / her injury results in an inability to perform essential domestic tasks such as shopping, cleaning and laundry due to the illness or injury. These services do not require a medical professional
+The authorization for home health care services should document the medical necessity for the care and include:
+•	the medical condition(s) requiring home health care services; and
+•	objective functional deficits; and
+•	specific activities precluded by such deficits; and
+•	necessity of skilled or unskilled services; and
+•	duration and frequency(ies) of home healthcare service required (e.g., per day, week).
+A home evaluation is necessary to develop the home health care treatment plan. The evaluation is performed by a qualified home health care professional (e.g. registered nurse, physical therapist, occupational therapist, and/or other qualified licensed medical professional). The evaluation assesses patient safety, equipment need, and care requirements to help prevent (re)hospitalization. Re-assessment of the medical necessity of home health care services should be conducted at regular intervals by the treating provider and may include a repeat home evaluation.
+
+Telehealth  
+
+California Medical Treatment Utilization Schedule (MTUS)/ACOEM Practice Guideline
+Initial Approaches to Treatment (MTUS Effective Date March 14, 2022)
+Treatment Recommendations
+Distance-Based Services (Telehealth)
+It is generally preferable to take in-person histories and perform physical examinations, especially for acute injury care or for conditions where physical examination and/or manual treatment is(are) essential. However, in-person evaluations are not always convenient or even possible, particularly with the challenges of the COVID-19 pandemic. In response, federal Health and Human Services policies have been changed to foster telehealth under the COVID-19 Public Health Emergency Declaration (29), although these may not be directly applicable to some or all worker’s compensation systems. Whether these policies remain after the pandemic has yet to be determined.
+Simultaneously, there is growing evidence of efficacy of select, distance-based services (i.e., telemedicine, telehealth) (30-36). These particularly include management of chronic or ongoing disorders. Examples of conditions where evidence indicates that telehealth is as effective as in-person evaluations include depression (37), chronic low back pain (38), stroke rehabilitation, including motor and cortical dysfunction (39), knee and hip arthroplasty (40, 41), and cardiac (41) and (vi) chronic wound management (42).
+Thus, telehealth is believed to be better used for the monitoring and ongoing care of chronic conditions (43). It is thought to be less useful for initial evaluations of acute injuries and for quickly evolving conditions.
+There are additional circumstances when the provision of distance-based health may be preferable, if not necessary. These include long travel distances relative to the value obtained during an office visit. Another concern is the potential risk of aerosolized virus transmission in a medical office environment. . Yet, there are no quality trials of services for worker’s compensation patients or for commonly evaluated, potentially work-related injuries and diseases. Thus, telehealth is selectively Recommended, Evidence (I).
+Medicare has established policies for telehealth (43, 44), which may be used as an example (see Table 3). However, there may be jurisdictional issues, such as licensure requirements with considerable variations affecting the availability and use of distance-based services. Also, CMS’s telehealth policy may not be applicable and adaptable to worker’s compensation in some jurisdictions.
+
